@@ -1,0 +1,83 @@
+A Faire
+Global :
+- Ajout doctests
+- explication organisation
+- Les problemes rencontrées
+- bug ram qui casse les ********
+
+Sprites :
+x Les persos
+x Le sablier
+x Case a voler
+x Case Exit
+x Vortex
+x escalator
+- mur plein
+- mur entre cases
+x sol
+x commandes de jeu
+- discuss amelioration
+x zone de renfort
+x fleche vrai sélection vortex
+x tous les sorts
+x garde transformé en grenouille
+x anneau invisibilité
+x anneau fantome
+
+Phase 1 :
+x niveau 10x15
+x mouvement des 4 persos
+x recuperation des objets
+x ajout / activation sortie
+x délai de 3 min
+x ajout mode debug
+x Ajout Image
+x Ajout sélecteur de pion
+x Afficher la sélection de pion
+
+Phase 2 :
+x Ajout vortex
+x desactivation vortex apres vol
+x ajout escalator
+x version 2 joueurs
+x ajout murs
+x ajout case sablier et son effet flip de sablier
+x ajout mode 3 joueurs
+x ajout sélecteur
+x ajout mode 4 joueurs (bonus)
+x sauvegarde
+x pause en jeu
+x affichage controles
+
+Phase 3 :
+x ajout exploration(OOF)
+x Création de toutes les tuiles
+x mise à jour sauvegarde
+x Ajout pion garde
+x Ajout garde de renfort
+x Rendre chaque garde différenciable dans la sélection
+x Repare conflit escalator entre tuile
+x fixe téléportation (detection de pion sur les cases vortex + detection FBI dans la zone)
+x Rendre l'exploration sans feinte pour le joueur (montrer que on peut pas visiter au bord de la carte)
+x fixe bug escalator coin bas gauche (cherche une pair hors des limites du terrain ?)
+x fixe timer (probleme du stop a 0:59)
+- debuggage complet
+--------------------
+- Ajout mur cassé (3 joker)
+- fixation des murs par les gardes au passage
+- télékinésie elfe
+--------------------
+sort magicienne (yen a plein) :
+x sort balai (ok)
+x sort echange (ok)
+x sort teleportation (ok)
+x sort fantome (ok)
+x sort grenouille (ok)
+x sort invisibilité (ok)
+x McTroollald's (ok)
+- sort boule de cristal (non)
+- sort code (non)
+- sort clairvoyance (non)
+--------------------
+- La salle des gardes
+- les portes blindés et les codes

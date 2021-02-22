@@ -1,0 +1,11 @@
+timer=116.65454840660095
+nbr of pion=4
+magicienne position=21,13
+elfe position=19,21
+nain position=25,13
+barbare position=27,17
+nbr of player=1
+nbr of guards=0
+J0 actions=go_right,go_down,explore,go_left,escalator,vortex,go_up,spell_grenouille,spell_invisibilite
+has stolen=0
+deactivated hourglass=21,13|19,21
